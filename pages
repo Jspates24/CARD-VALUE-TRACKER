@@ -1,0 +1,6 @@
+/pages
+  index.js
+  _app.js
+/package.json
+/next.config.js
+/...
