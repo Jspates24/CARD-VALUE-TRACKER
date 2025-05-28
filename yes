@@ -1,0 +1,3 @@
+mv card-value-tracker/* .
+mv card-value-tracker/.* .  # to move hidden files like .gitignore if any
+rmdir card-value-tracker
